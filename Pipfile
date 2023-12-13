@@ -8,9 +8,7 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 numpy = "*"
-scipy = "*"
 ipykernel = "*"
-arff = "*"
 
 [dev-packages]
 

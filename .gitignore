@@ -1,6 +1,9 @@
 # exclude data files
 data/*
 
+# exlude macOS files
+*.DS_Store*
+
 # Jupyter Notebook
 .ipynb_checkpoints
 
